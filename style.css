@@ -23,8 +23,16 @@ border-radius: 8px;
     text-align: center;
     font-size: 30px;
     color: orange; 
+    margin: 0;
 }
-
+p {
+  margin: 0;
+  font-size: 12px;
+}
+h5 {
+  margin: 0;
+font-family: sans-serif;
+}
 .main-phone{
   display: flex;
   justify-content: center;
